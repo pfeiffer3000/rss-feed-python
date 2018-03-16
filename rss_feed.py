@@ -1,4 +1,4 @@
-import feedparser
+import feedparser #must install feedparser with pip3
 from time import sleep
 
 def grab_print_feed():
